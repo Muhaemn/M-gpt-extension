@@ -7,10 +7,10 @@
 this extension allows users to ask questions by typing them into any input field on any website. The extension then takes the question, generates an answer using the OpenAI GPT-3.5 Turbo model, and inserts the answer back into the input field where the question was originally asked.
 # Important
 you need to add your Open Ai API KEY to the bundle-bundle.js file 
-use ctrl+f and type apiKey and you will find it
+use ctrl+f and type apiKey it will show you where to put your api key
 ## Commands
 
-To use it you have these two Commands
+To use the extension you have these two Commands
 
 #### First
 ```bash
