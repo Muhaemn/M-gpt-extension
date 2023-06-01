@@ -8,6 +8,8 @@ this extension allows users to ask questions by typing them into any input field
 # Important
 you need to add your Open Ai API KEY to the bundle-bundle.js file 
 use ctrl+f and type apiKey it will show you where to put your api key
+check this link to get your api key 
+https://platform.openai.com/account/api-keys
 ## Commands
 
 To use the extension you have these two Commands
