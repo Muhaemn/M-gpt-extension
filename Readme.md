@@ -31,6 +31,7 @@ press ( ctrl+ ; ) keys to turn on/off the extension
 ## How to setup and use it
 
 1) Enable the Extension: Once the extension is installed, make sure it is enabled in your Chrome browser. You can find your installed extensions by clicking on the puzzle piece icon (Extensions) located in the top-right corner of the Chrome toolbar. Enable the extension if it is not already active.
+<br>watch this video to know how to load unpacked extension https://www.youtube.com/watch?v=hIRX1dpfqHc
 
 2) Input Field: Navigate to a website or web page that contains an input field, such as a search box or a text input area.
 
